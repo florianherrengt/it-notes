@@ -1,0 +1,4 @@
+- Think about how this product could help someone
+- When a user accomplishes something, acknowledge it and reward them
+- Most apps and websites have empty corners that can be utilized in a thoughtful way
+- Imagine your Grandpa using the product
