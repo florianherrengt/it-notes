@@ -25,3 +25,16 @@
 
     defaults write com.apple.dashboard mcx-disabled -boolean TRUE
     killall Dock
+
+
+### Search in commands history ###
+
+    Ctrl + R
+
+### Move to start/end of line ###
+
+    Ctrl + A / Ctrl + E
+
+### Switch between windows application ###
+
+    Cmd + ~
