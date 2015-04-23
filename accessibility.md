@@ -1,8 +1,6 @@
 # Web accessibility
 > When sites are correctly designed, developed and edited, all users have equal access to information and functionality. - Wikipedia
 
-<!>
-
 > Accessibility is often abbreviated as the numeronym a11y, where the number 11 refers to the number of letters omitted. This parallels the abbreviations of internationalization and localization as i18n and l10n respectively. - Wikipedia
 
 ## Guideline
