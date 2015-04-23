@@ -35,6 +35,10 @@
 
     Ctrl + A / Ctrl + E
 
+### Clear terminal ###
+
+    Cmd + K
+
 ### Switch between windows application ###
 
     Cmd + ~
