@@ -64,6 +64,9 @@ Note: Ghost uses passport
 ![article_added](article_added.png)
 ![article_preview](article_preview.png)
 
-### But I don't know markdown ###
+### But I don't know markdown! ###
 You can bring the `Markdown Help`
 ![markdown_helper](markdown_helper.gif)
+
+### How can I add a image? ###
+![add_image](add_image.gif)
