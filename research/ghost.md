@@ -45,3 +45,12 @@
 
 - Go to `http://<dockerip>:<app_port>/ghost/setup/`
 - Then `http://<dockerip>:<app_port>/ghost/signin/`
+
+### Get user from a controller ###
+
+    var Models = require('../models');
+    Models.User.findOne({ id: 1}).then(function(foundUser){
+        console.log(foundUser.toJSON());
+    };
+
+Note: Ghost uses passport
