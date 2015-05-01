@@ -29,10 +29,10 @@
 - Go into the root directory (mount the docker volume)
 - Open `config.js`
 - Add your email credentials to `config.development.mail`
+    
+Example with gmail:
 
-    Example with gmail:
-
-      mail: {
+    mail: {
         transport: 'SMTP',
         options: {
           service: 'gmail',
