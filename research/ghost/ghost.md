@@ -29,7 +29,7 @@
 - Go into the root directory (mount the docker volume)
 - Open `config.js`
 - Add your email credentials to `config.development.mail`
-    
+
 Example with gmail:
 
     mail: {
@@ -54,3 +54,7 @@ Example with gmail:
     };
 
 Note: Ghost uses passport
+
+### Screenshots ###
+
+![dashboard](dashboard.png)
