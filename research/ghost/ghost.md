@@ -55,7 +55,7 @@ Example with gmail:
 
 Note: Ghost uses passport
 
-### Screenshots ###
+### How does it look like? ###
 
 ![dashboard](dashboard.png)
 ![empty](empty.png)
@@ -63,3 +63,7 @@ Note: Ghost uses passport
 ![meta](meta.png)
 ![article_added](article_added.png)
 ![article_preview](article_preview.png)
+
+### But I don't know markdown ###
+You can bring the `Markdown Help`
+![markdown_helper](markdown_helper.gif)
