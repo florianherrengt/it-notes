@@ -58,3 +58,8 @@ Note: Ghost uses passport
 ### Screenshots ###
 
 ![dashboard](dashboard.png)
+![empty](empty.png)
+![write](write.png)
+![meta](meta.png)
+![article_added](article_added.png)
+![article_preview](article_preview.png)
