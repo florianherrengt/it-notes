@@ -70,3 +70,8 @@ You can bring the `Markdown Help`
 
 ### How can I add a image? ###
 ![add_image](add_image.gif)
+
+### What about embedding videos? ###
+You can use any HTML tag in your markdown page
+![iframe](iframe.png)
+![iframe_preview](iframe_preview.png)
