@@ -28,3 +28,6 @@
         - Repositories > Same URL
     - Build Triggers
         - Build when a change is pushed to GitHub
+
+### Build docker images into docker ###
+- run -u root -p 8080:8080 -v /home/jenkins/:/var/jenkins_home jenkins
