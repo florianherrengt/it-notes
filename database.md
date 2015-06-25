@@ -1,3 +1,5 @@
+# MySQL
+
 ### Start MySQL ###
 
     sudo /usr/local/mysql/bin/mysqld_safe
@@ -21,3 +23,9 @@
     sum( data_free )/ 1024 / 1024 "Free Space in MB"
     FROM information_schema.TABLES
     GROUP BY table_schema ;
+
+# MongoDB
+
+### Start as a deamon without log ###
+
+    mongod --fork --logpath /dev/null
