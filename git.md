@@ -10,3 +10,7 @@
 ### Get number of line ###
 
     git ls-files | xargs wc -l
+
+### See nicely formatted logs
+
+    git log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=relative
