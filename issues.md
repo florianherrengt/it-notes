@@ -9,3 +9,7 @@ After `brew install vim` the vim's version didn't change
 ### I changed my host file but the domain is not available ###
 
     dscacheutil -flushcache
+
+### Stop using sudo with npm ###
+
+    sudo chown -R $(whoami) ~/.npm
