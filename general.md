@@ -12,4 +12,7 @@
 ### Data driven ###
 When your code is data driven, everyone can work off the same built-in value map.
 
+### Find string in files ###
+
+    grep -rnw '/path/to/somewhere/' -e "pattern"
 
