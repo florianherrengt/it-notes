@@ -5,6 +5,10 @@
 # Delete all images
 
     docker rmi $(docker images -q)
+    
+# Clean up
+
+    docker volume rm $(docker volume ls -qf dangling=true)
 
 # Stop all
 
